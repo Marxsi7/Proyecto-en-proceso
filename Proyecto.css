@@ -1,0 +1,90 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2017/03/28/12/16/chairs-2181980_960_720.jpg);
+    background:cover;
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+h1.somos {
+    color: #e2496d;
+}
+
+
+h1{
+    color: wheat;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+p.Matea {
+    height: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #000000;
+    text-align: center;
+}
+
+h1.Matea {
+    color: #e2496d;
+    text-align: center;
+}
+
+section[id] {
+    scroll-margin-top: 60px;
+}
+
+h1.conferencia {
+    color: rgb(209, 164, 67);
+}
+
+li.one {
+    color: #a9d543;
+    text-align: center;
+    height: 30px;
+}
+
+li.two {
+    color: #a9d543;
+    height: 40px;
+    text-align: center;
+}
+
+li.three {
+    color: #a9d543;
+    height: 36px ;
+    text-align: center;
+}
+
+section.información {
+    background-image: url(https://cdn.pixabay.com/photo/2017/03/28/12/16/chairs-2181980_960_720.jpg);
+    background:cover;
+    background-size: 100%;
+    background-repeat: no repeat;
+}
+
+section.conferencia {
+    background-image:url(https://cdn.pixabay.com/photo/2015/05/15/14/22/conference-room-768441_960_720.jpg) ;
+}
+
+.card{
+    display:inline-block;
+    
+    
+}
+.card img{
+    border : green double;
+    border-radius:  65px;
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    background-color: #203738;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+nav{
+    height:50px;
+}
